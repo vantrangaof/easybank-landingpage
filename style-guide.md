@@ -32,3 +32,12 @@ The designs were created to the following widths:
 
 - Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
 - Weights: 300, 400, 700
+
+### Trang's Note
+
+- Keep a mobile-first mindset
+- Set up variables & global scss first
+- Set up general classes & style them to use them again
+- Keep things as specific as possible, break components down into small files for easier controling and debugging
+- Set up global styles for visibility
+- Create breakpoints using Mixins
