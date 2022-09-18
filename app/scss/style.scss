@@ -1,4 +1,7 @@
 @import "variables";
-@import "mixins"; // variables & mixins should be put above other styles
+@import "mixins"; 
+@import "animations";
+// variables, mixins, animations, etc. are considered functional styles and should be put above other styles
+
 @import "globals";
 @import "header";
