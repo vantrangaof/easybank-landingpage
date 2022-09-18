@@ -1,4 +1,4 @@
-# Easybank Landing Page
+# Easybank Landing Page [In Progress]
 This is a frontend project to build a simple landing page using HTML, SCSS, JS
 
 *Tutorial by Coder Coder*
